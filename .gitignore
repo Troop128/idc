@@ -10,3 +10,4 @@ elif age == 0:
     print("You were just born...impressive")
 else:
     print("You are a child")
+
